@@ -32,8 +32,6 @@ This repository is organized into the following sections:
 *   **/notebooks:** Contains the Jupyter Notebooks with the step-by-step analysis.
     *   `Task 1 - Customer Analytics.ipynb`: Data cleaning, feature engineering, and customer segmentation.
     *   `Task 2 - A/B Test Analysis.ipynb`: Control store selection, trial performance assessment, and statistical testing.
-*   **/reports:** Contains the final presentation and key visuals.
-    *   `Strategic Recommendations - Quantium.pptx`: The final PowerPoint presentation summarizing the findings for management.
 *   `README.md`: This file, providing an overview of the project.
 
 ---
